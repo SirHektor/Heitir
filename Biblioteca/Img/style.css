@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(155, 21, 43); /* Cor do Texto */
+    text-align: center;
+    
+}
+p {   
+    color: rgb(95, 78, 103);
+    }
+
+body {
+    background-color:rgb(227, 151, 151);
+    /* muda a cor do fundo */
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.texto {
+    color: rgb(83, 24, 24);
+}
+#title /* o # puxa o title */ {
+    text-align: center;
+    color: blueviolet;
+}
+a {
+    text-decoration: none;
+    font-size: 30px; /* px e font size mechem no tamanho do texto */
+    background-color: firebrick;
+    border-radius: 8px;
+    border-color: crimson;
+    border-style: dashed;
+    border-width: 5px;
+    padding: 5px 8px 7px 6px;
+}
+
+img {
+    width: 1000px;
+    height: auto;
+
+}
+
+div {
+    text-align: center;
+}

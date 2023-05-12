@@ -1,0 +1,25 @@
+hr {
+    border-color: black;
+    border-width: 5px;
+}
+#textdc {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+div {
+    text-align: center;
+    
+}
+img {
+    padding-top: 200px;
+   width: 400px;
+}
+.Dinheiro {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+        font-size: 30px;
+}

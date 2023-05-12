@@ -1,0 +1,47 @@
+#Dank {
+    display: flex;
+    justify-content: center;
+}
+body {
+    background-color: rgb(254, 250, 210);
+}
+hr {
+    border-radius: 200px;
+    border-color: black;
+    border-width: 5px;
+}
+h2 {
+    text-shadow: 30px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+   color: rgb(0, 0, 0);
+}
+.kk {
+    text-align: center;
+}
+img {
+    padding-top: 100px;
+    height: 600px;
+}
+.evento {
+    text-align: center;
+}
+.festa {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: orangered;
+}
+h1 {
+    text-shadow: 30px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+   color: rgb(0, 0, 0);
+}
+.Contato {
+    text-align: center;
+    height: 600px;
+}

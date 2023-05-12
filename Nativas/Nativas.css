@@ -1,0 +1,94 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    
+ 
+}
+@font-face {
+    font-family: 'Sigilos';
+    src: url(Sigilos-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Fragment';
+    src: url(Fragmentcore.otf);
+
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+.fragment {
+    font-family: Fragment, sans-serif;
+}
+
+
+
+.box-degrade img {
+    text-align: center;
+}
+
+@font-face {
+    font-family: 'Shack';
+    src: url(ShackieHandpainted_PERSONAL_USE_ONLY.otf);
+}
+
+.Shack {
+    font-family: Shack, sans-serif;
+    text-align: center;
+}
+.cursos {
+    font-family: Fragment, sans-serif;
+    text-align: center;
+}
+.Trança {
+    text-align: center;
+   
+}
+.Trança img {
+    height: 400px
+}
+.penteados img {
+    height: 400px
+}
+.penteados {
+    text-align: center;
+}
+.Cabelereiro {
+    text-align: center;
+}
+.Cabelereiro img {
+    height: 400px
+}
+
+.box-degrade{
+    width: 100%;
+    padding: 200px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to left, blue, purple, rgb(252, 83, 176));
+    background-size: 500% 100%;
+    animation: degrade-animado 5s infinite alternate;
+  
+}
+
+@keyframes degrade-animado {
+    0%{
+        background-position-x: 0%;
+    }
+    100%{
+        background-position-x:100%;
+    }
+}
+    

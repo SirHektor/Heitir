@@ -1,0 +1,30 @@
+hr {
+    border-color: black;
+    border-width: 5px;
+}
+#textmarvel {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+img {
+    padding-top: 200px;
+   width: 300px;
+}
+div {
+    text-align: center;
+}
+h2 {text-align: center;
+
+}
+.Dinheiro {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: black;
+        font-size: 30px;
+}
+#fundo {
+    float: inline-start;
+    
+}
