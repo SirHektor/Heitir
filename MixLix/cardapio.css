@@ -1,4 +1,4 @@
-.navbar {
+#contato {
     text-align: center;
     text-decoration: none;
     color: black;
@@ -11,7 +11,7 @@
     text-transform: capitalize;
     line-height: 1.8;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
 }
 img {
     width: 300px;
@@ -26,10 +26,18 @@ img {
     border: 1px black solid;
     padding: 10px;
     margin: 20px;
+    background-color: white;
 }
 p {
     font-family: Osvaldo, sans-serif;
 
+}
+.rick {
+    text-decoration: none;
+    text-align: center;
+}
+body {
+    height: 2000px;
 }
 /* @font-face {
     font-family: Osvaldo;
