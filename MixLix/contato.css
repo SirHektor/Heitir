@@ -1,0 +1,30 @@
+img {
+    height: 200px;
+}
+h1 {
+    text-align: center;
+    font-family: Osvaldo, sans-serif;
+}
+@font-face {
+    font-family: Osvaldo;
+    src: url(Oswald-VariableFont_wght.ttf);
+}
+div {
+    text-align: center;
+}
+.zap {
+    text-align: center;
+    height: 40px;
+}
+.insta {
+    text-align: center;
+    height: 40px;
+}
+hr {
+    width: 180px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-family: Osvaldo, sans-serif;
+}
