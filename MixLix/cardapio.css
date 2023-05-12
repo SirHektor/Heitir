@@ -1,0 +1,37 @@
+.navbar {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: Osvaldo, sans-serif;
+    margin: 0;
+    padding: 0%;
+    outline: none;
+    border: none;
+    transition: all 0.4s cubic-bezier(.43, 1.1, .62, 1.08);
+    text-transform: capitalize;
+    line-height: 1.8;
+    text-align: center;
+    font-size: 30px;
+}
+img {
+    width: 300px;
+    height: 200px;
+}
+.alimento {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.alimento-box {
+    border: 1px black solid;
+    padding: 10px;
+    margin: 20px;
+}
+p {
+    font-family: Osvaldo, sans-serif;
+
+}
+/* @font-face {
+    font-family: Osvaldo;
+    src: url(Oswald-VariableFont_wght.ttf); */
+

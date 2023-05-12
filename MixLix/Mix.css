@@ -1,0 +1,128 @@
+* {
+    border: 0px;
+    margin: 0px;
+
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: Osvaldo, sans-serif;
+    color: white;
+}
+
+.mensagem {
+    height: 180px;
+}
+
+@font-face {
+    font-family: Osvaldo;
+    src: url(Oswald-VariableFont_wght.ttf);
+}
+
+body {
+    background-color: white;
+}
+
+.fundo {
+    background-color: black;
+}
+
+body {
+    height: 4000px;
+}
+
+hr {
+    width: 200px;
+}
+
+#header {
+    background-color: red;
+
+
+}
+
+
+
+
+.navbar {
+    font-family: Osvaldo, sans-serif;
+    margin: 0;
+    padding: 0%;
+    /* box-sizing: border-box; */
+    outline: none;
+    border: none;
+    transition: all 0.4s cubic-bezier(.43, 1.1, .62, 1.08);
+    text-transform: capitalize;
+    line-height: 1.8;
+    text-align: center;
+    font-size: 30px;
+    /* position: fixed; */
+    /* background-color: red;
+    background-size: 100vw; */
+
+}
+/* }
+.navbar a {
+    display: inline-block;
+    background-size: 100vw;
+} */
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.avaliations {
+    color: black;
+}
+
+hr {
+    height: 200px;
+}
+
+p {
+    color: black;
+    font-family: roboto, sans-serif;
+    text-align: left;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url(RobotoCondensed-Regular.ttf);
+}
+
+.avaliation {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.avaliation-box {
+    border: 1px black solid;
+    padding: 10px;
+    margin: 20px;
+}
+
+/* .box-degrade{
+    width: 100%;
+    padding: 200px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to bottom, white, red, orange,(252, 83, 176));
+    background-size: 500% 100%;
+    animation: degrade-animado 5s infinite alternate;
+  
+}
+@keyframes degrade-animado {
+    0%{
+        background-position-x: 0%;
+    }
+    100%{
+        background-position-x:100%;
+    }
+} */
