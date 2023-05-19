@@ -1,0 +1,120 @@
+
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+
+
+}
+
+.TelaInicial {
+    position: relative;
+    width: 1440px;
+    height: 3302px;
+    
+    background: #D9D5D5;
+    
+}
+.Nuvem {
+    position: absolute;
+    width: 600px;
+    height: 750px;
+    left: 0px;
+    top: 0px;
+    
+    background: url(pngtree-red-clouds-chinese-new-year-vector-design-png-image_8863907.png);
+    
+}
+.Nuvem2 {
+    position: absolute;
+width: 576px;
+height: 673px;
+left: 868px;
+top: 21px;
+
+background: url(pngtree-red-clouds-chinese-new-year-vector-design-png-image_8863907.png)
+}
+
+.Logo {
+    position: absolute;
+width: 298px;
+height: 332px;
+left: 571px;
+top: 212px;
+
+
+}
+
+
+.vermelho {
+    position: absolute;
+width: 1968.02px;
+height: 70px;
+left: 0px;
+top: 886px;
+
+background-color: #C62828;
+
+}
+.Fuji {
+    position: absolute;
+width: 2266px;
+height: 1509px;
+left: -8px;
+top: 701px;
+
+}
+.dojotext  {
+    position: absolute;
+width: 1244px;
+height: 164px;
+left: 99px;
+top: 1020px;
+
+font-family: 'Permanent Marker';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+text-align: center;
+
+color: #FFFFFF;
+text-shadow: 2px 3px 2px black;
+}
+.dias {
+    position: absolute;
+width: 383px;
+height: 85px;
+left: 530px;
+top: 1257px;
+
+font-family: 'Permanent Marker';
+font-style: normal;
+font-weight: 400;
+font-size: 41px;
+line-height: 60px;
+text-align: center;
+
+color: #FFFFFF;
+text-shadow: 2px 3px 2px black;
+}
+.SegundaT {
+    position: absolute;
+    width: 301px;
+    height: 160px;
+    left: 580px;
+    top: 1426px;
+    background-color: #C62828;
+    font-size: 40px;
+    border-radius: 20%;
+    font-family: Permanent Marker; 
+
+}
+a {
+ text-decoration: none; 
+ color: white;  
+}
+.Botões :hover {
+    
+
+}
